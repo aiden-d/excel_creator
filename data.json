@@ -1,0 +1,126 @@
+{
+    "locations": [
+        "location a", 
+        "location b", 
+        "location c", 
+        "location d", 
+        "location e"
+    ],
+    "data": {
+        "location a": {
+            "income": {
+                "square": 100000.67,
+                "uber": 1111,
+                "foodstuff": 0,
+                "kiosk": 1212.5
+            },
+            "cogs": {
+                "xero": {
+                    "food":3213.83,
+                    "missing invoices": 0,
+                    "drink": 1903.14,
+                    "miscellaneous": 1706.75,
+                    "uber fees": 0,
+                    "pleo": 0,
+                    "taxi": 0
+                }
+            },
+            "labour": {
+                "labour":6610,
+                "limber": 0
+            }
+        },
+        "location b": {
+            "income": {
+                "square": 12323.63,
+                "uber": 3782,
+                "foodstuff": 0,
+                "kiosk": 0
+            },
+            "cogs": {
+                "xero": {
+                    "food": 2279.2,
+                    "missing invoices": 0,
+                    "drink": 524.24,
+                    "miscellaneous": 361.34,
+                    "uber fees": 0,
+                    "pleo": 0,
+                    "taxi": 0
+                }
+            },
+            "labour": {
+                "labour": 4086,
+                "limber": 0
+            }
+        },
+        "location c": {
+            "income": {
+                "square": 6660,
+                "uber": 6150,
+                "foodstuff": 0,
+                "kiosk": 0
+            },
+            "cogs": {
+                "xero": {
+                    "food": 311.7,
+                    "missing invoices": 0,
+                    "drink": 73.6,
+                    "miscellaneous": 6.93,
+                    "uber fees": 0,
+                    "pleo": 0,
+                    "taxi": 0
+                }
+            },
+            "labour": {
+                "labour": 3620,
+                "limber": 0
+            }
+        },
+        "location d": {
+            "income": {
+                "square": 8291,
+                "uber": 6150,
+                "foodstuff": 0,
+                "kiosk": 0
+            },
+            "cogs": {
+                "xero": {
+                    "food": 1839.86,
+                    "missing invoices": 0,
+                    "drink": 173.82,
+                    "miscellaneous": 448.84,
+                    "uber fees": 0,
+                    "pleo": 0,
+                    "taxi": 0
+                }
+            },
+            "labour": {
+                "labour": 3620,
+                "limber": 0
+            }
+        },
+        "location e": {
+            "income": {
+                "square": 11312.68,
+                "uber": 8218,
+                "foodstuff": 0,
+                "kiosk": 0
+            },
+            "cogs": {
+                "xero": {
+                    "food": 160,
+                    "missing invoices": 0,
+                    "drink": 325.03,
+                    "miscellaneous": 2813.35,
+                    "uber fees": 0,
+                    "pleo": 0,
+                    "taxi": 0
+                }
+            },
+            "labour": {
+                "labour": 4035,
+                "limber": 0
+            }
+        }
+    }
+}
